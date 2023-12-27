@@ -1,0 +1,24 @@
+body{
+    background-color: #F7ECDE;
+}
+ h1 {
+    font-size: 50px;
+    font-family: "Pacifico", cursive;
+    color: #352e28;
+   
+}
+hr {
+    border: none ;
+    border-top: 3px dotted  #000000;
+  }
+  .i1{
+    color: #3EA55B;
+  }
+  .i2{
+    color:#B3AC49;
+  }
+  h2{
+    background-image: linear-gradient(to right, #3ca55c, #b5ac49);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
